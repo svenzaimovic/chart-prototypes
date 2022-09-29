@@ -7,7 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@amcharts/amcharts4": "^4.9.22",
+    "@amcharts/amcharts4": "^4.10.28",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
